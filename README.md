@@ -26,6 +26,7 @@ An AI-powered Resume Analyzer built using **Python**, **Streamlit**, **spaCy**, 
 ## 🖥️ Dashboard Screenshots
 
 ### Home Dashboard
+<img width="1920" height="1020" alt="Screenshot 2026-08-01 233812" src="https://github.com/user-attachments/assets/81c68478-eb84-4b12-a90b-ef268f200e51" />
 
 
 
